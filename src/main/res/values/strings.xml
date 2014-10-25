@@ -2,7 +2,15 @@
 <resources>
 
     <string name="app_name">Android-Espresso</string>
-    <string name="hello_world">Hello world!</string>
+    <string name="welcome">Welcome! Enjoy your coffee</string>
     <string name="action_settings">Settings</string>
+    <string name="loginButtonText">Login</string>
+    <string name="passwordText">Password</string>
+    <string name="usernameText">Email</string>
+    <string name="title_activity_register">RegisterActivity</string>
+    <string name="registerTextLink">new? Register here</string>
+    <string name="title_activity_welcome">WelcomeActivity</string>
+    <string name="loginTextLink">Already have an account! Login here</string>
+    <string name="registerButtonText">Register New Account</string>
 
 </resources>
